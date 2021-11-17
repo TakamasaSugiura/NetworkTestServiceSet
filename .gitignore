@@ -1,0 +1,14 @@
+
+.vs/
+
+NetworkTestServiceSet/src/Common/bin/
+
+NetworkTestServiceSet/src/Common/obj/
+
+NetworkTestServiceSet/src/TcpEcho/bin/
+
+NetworkTestServiceSet/src/TcpEcho/obj/
+
+NetworkTestServiceSet/src/TcpEchoClient/bin/
+
+NetworkTestServiceSet/src/TcpEchoClient/obj/
